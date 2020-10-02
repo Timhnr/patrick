@@ -1,0 +1,73 @@
+h1{
+  color:#FFFFFF;
+  font-family: fantasy;
+  text-align: center;
+  font-weight: 400;
+  font-size: 50px;
+  text-shadow: 5px 2px 4px#26d48e;
+  background-color: #2E8B57;
+
+}
+p{
+    color: #8DC2AD;
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    font-weight: 100;
+    font-size: 30px;
+    text-shadow: none;
+}
+p.bot{
+color: rgb(23, 104, 73);
+vertical-align: text-bottom;
+font-size: 30px;
+text-shadow: none;
+}
+
+p.cursed{
+    color: rgb(39, 131, 94);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    font-weight: 100;
+    font-size: 30px;
+    text-shadow: 5px 2px 4px rgb(223, 38, 38);
+    letter-spacing: 15px;
+    text-transform: lowercase;
+    
+}
+
+p.cursed2{
+    color: rgb(39, 131, 94);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    font-weight: 100;
+    font-size: 30px;
+    text-shadow: 5px 2px 4px rgb(223, 38, 38);
+    letter-spacing: -15px;
+    text-transform: lowercase;
+    
+}
+a{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: none;
+  
+}
+
+body{
+ background-color: #282828; 
+ background-image:  url("https://vignette.wikia.nocookie.net/abandoned-discovery-island-rp/images/8/80/Wide_putin.png/revision/latest?cb=20200626021624");
+ background-repeat: repeat-x; 
+ background-position: center;
+ background-attachment: fixed ;                  
+ text-align: center;
+ cursor:nw-resize;
+}
+img {
+  max-height: 400px;
+}
+a:hover{
+    cursor:col-resize;
+}
+.animate__backInLeft{
+    animation-duration: 3s;
+}
